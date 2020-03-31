@@ -9,16 +9,16 @@
 > ***Why do I need a data set?***  
 ML depends heavily on data, without data, it is impossible for an “AI” to learn. It is the most crucial aspect that makes algorithm training possible… No matter how great your AI team is or the size of your data set, if your data set is not good enough, your entire AI project will fail! I have seen fantastic projects fail because we didn’t have a good data set despite having the perfect use case and very skilled data scientists.
 -- [Towards Data Science](towardsdatascience.com)
-####  In conclusion, we must pick dataset that is good for our Linear Regression Model. In this case, we must not use dataset that contains stock prices from the starting point of the company IPO to the current stock price.
+####  In conclusion, we must pick dataset that is good for our Linear Regression Model. If I choose AAPL Stocks from 1980 to now...
 >![Figure 1: Graph of APPL Stocks from 1980 to 2020][graph]
 
 [graph]: https://github.com/LeeSinLiang/Predict-Stock-Price-With-Linear-Regression/blob/master/pictures/Figure_1.png "Figure 1: Graph of APPL Stocks from 1980 to 2020"
 >Figure 1: APPL Stocks from 1980 to 2020
-#### If we try to fit a regression line, we will get a result like this:
+#### If I try to fit a regression line, the result would be:
 >![Figure 2: Graph of APPL Stocks from 1980 to 2020 with regression line][graph1]
 
 [graph1]: https://github.com/LeeSinLiang/Predict-Stock-Price-With-Linear-Regression/blob/master/pictures/Figure_2.png "Figure 2: Graph of APPL Stocks from 1980 to 2020 with regression line"
-#### And if we use r2_score (`from sklearn.metrics import r2_score`) to calculate the r^2 score for our model, we will get 0.53 accuracy which is horrible!
+#### And if I use r2_score (`from sklearn.metrics import r2_score`) to calculate the r^2 score for our model, I get 0.53 accuracy which is horrible!
 #### In the end, I decided to start our model from 2005 to this current year, which is 2020 and fit a regression line to it, and this is the result:
 
 >![Figure 3: Graph of APPL Stocks from 2005 to 2020 with regression line][graph2]
