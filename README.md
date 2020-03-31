@@ -1,8 +1,20 @@
 
 
+
 # Predict-Stock-Price-With-Linear-Regression
 
 #### This is a Stock Market Prediction using Machine Learning and Linear Regression Model. You can choose whatever CSV Stock File to predict as long they have dates and your target prediction. I recommend downloading historical stock price data at [Yahoo Finance](finance.yahoo.com). Below is a presentation about the whole process of coding this project.
+
+## Table of Contents
+
+ - [Choosing Dataset Wisely](https://github.com/LeeSinLiang/Predict-Stock-Price-With-Linear-Regression/blob/master/README.md#choosing-data-set-wisely)
+ - [Preprocessing Data](https://github.com/LeeSinLiang/Predict-Stock-Price-With-Linear-Regression/blob/master/README.md#preprocessing-data)
+ - [Linear Regression Model](https://github.com/LeeSinLiang/Predict-Stock-Price-With-Linear-Regression/blob/master/README.md#linear-regression-model)
+ - [Training Multiple Models](https://github.com/LeeSinLiang/Predict-Stock-Price-With-Linear-Regression/blob/master/README.md#training-multiple-models)
+ - [Save Regression Model](https://github.com/LeeSinLiang/Predict-Stock-Price-With-Linear-Regression/blob/master/README.md#save-regression-model)
+ - [Prediction](https://github.com/LeeSinLiang/Predict-Stock-Price-With-Linear-Regression/blob/master/README.md#prediction)
+ - [Evaluation](https://github.com/LeeSinLiang/Predict-Stock-Price-With-Linear-Regression/blob/master/README.md#evaluation)
+ - [Recommended Resources](https://github.com/LeeSinLiang/Predict-Stock-Price-With-Linear-Regression/blob/master/README.md#recommended-resources)
 
 ## Choosing Data Set Wisely
 
