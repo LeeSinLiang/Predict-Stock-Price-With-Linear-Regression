@@ -37,6 +37,8 @@ ML depends heavily on data, without data, it is impossible for an “AI” to le
 
 [graph2]: https://github.com/LeeSinLiang/Predict-Stock-Price-With-Linear-Regression/blob/master/pictures/Figure_4.png "Figure 3: Graph of APPL Stocks from 2005 to 2020 with regression line"
 
+#### Accuracy: 0.87 
+
 ## Preprocessing Data
 
 > In any Machine Learning process, Data Preprocessing is that step in which the data gets transformed, or _Encoded_, to bring it to such a state that now the machine can easily parse it. In other words, the _features_ of the data can now be easily interpreted by the algorithm.
