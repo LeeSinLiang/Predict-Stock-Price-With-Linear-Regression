@@ -120,7 +120,7 @@ The cons of `train_test_split`is that the it's highly dependant on which dataset
  - [Machine Learning by IBM](https://www.coursera.org/learn/machine-learning-with-python)
  - [Udacity Intro to Machine Learning](https://www.coursera.org/learn/machine-learning-with-python)
  - [Sentdex](https://www.youtube.com/user/sentdex)
- - [Siraj Raval (Scammer)](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+ - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
  - [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
  - [MIT Deep Learning 6.S191](http://introtodeeplearning.com/)
  - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
